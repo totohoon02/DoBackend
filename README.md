@@ -4,13 +4,14 @@
 
 - [객체지향](./01.Java/객체지향.md)
 - [컬렉션](./01.Java/컬렉션.md)
+- [예외](./01.Java/예외.md)
 
 ```text
 백엔드 개발자
 │
 ├── 1. Computer Science (기반)
 │   ├── Java
-│   │   ├── [객체지향](https://github.com/totohoon02/DoBackend/blob/main/01.Java/%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5.md)
+│   │   ├── 객체지향
 │   │   ├── 컬렉션
 │   │   ├── 예외
 │   │   ├── Stream/Lambda
